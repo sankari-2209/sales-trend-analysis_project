@@ -45,4 +45,5 @@ Or upload the notebook to Google Colab and choose Runtime > Run all.
 ## Limitations
 Simulated data, one year only, and an assumed 90-day churn rule. Recommendations are suggestions to test, not guaranteed results.
 
-**Author:** Your Name
+**Author:** Sankari
+
